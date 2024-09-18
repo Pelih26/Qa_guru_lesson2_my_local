@@ -5,6 +5,9 @@ def print_hi(name):
     print(f'Hello, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
     print(f'Hello!!!!!!, {name}')  # Press ⌘F8 to toggle the breakpoint.
+    # Специально дублирую срочку, что бы было видно изменения
+
+    print(f'Hello!!!!, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
