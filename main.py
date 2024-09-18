@@ -1,5 +1,4 @@
-# Это мой локальный проект
-# Буду пушить его в репозиторий
+# Это пуш с отменой сейчас мы это запушим
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hello, {name}')  # Press ⌘F8 to toggle the breakpoint.
